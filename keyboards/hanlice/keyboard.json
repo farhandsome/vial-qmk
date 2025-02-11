@@ -2,9 +2,8 @@
     "manufacturer": "Han Boards",
     "keyboard_name": "Hanlice",
     "maintainer": "qmk",
-    "processor": "STM32FXXX",
+    "processor": "STM32F072",
     "bootloader": "stm32-dfu",
-    "board": "GENERIC_STM_FXXX",
     "usb": {
         "vid": "0xFB04",
         "pid": "0x0004",
